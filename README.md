@@ -5,3 +5,10 @@ Repositório criado na aula de PI
 - Pão
 - Macarrão
 - Leite
+- Batata Frita
+- Carne Moída
+- Sorvete
+- Pizza
+- Coca Cola
+- Fanta
+- Chocolate
